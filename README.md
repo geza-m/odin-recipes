@@ -1,1 +1,2 @@
 # odin
+my first odin project, a simple recipes website with my 3 favorite italian plates. Each one on different page: image, introduction, ingredient list  and preparation steps. Only basic html, no CSS or Javascript. Pictures were generated with Stable diffusion.
